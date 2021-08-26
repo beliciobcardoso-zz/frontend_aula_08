@@ -1,6 +1,6 @@
 <h1>Mesa de Trabalho - HTML / CSS</h1>
 
-<p>Curso: Certified Tech Deveçlop - Digital House</p>
+<p>Curso: Certified Tech Developer - Digital House</p>
 <p>Disciplina: Front End I</p>
 <p>Turma 01 NT</p>
 <h3>Aula 08</h3>
